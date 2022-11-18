@@ -1,13 +1,13 @@
 Main []
 
 Print(This is the image source)
-Class test
+Class dev
 {
-get.method()
+put.method()
 {
-a=1
-b=2
-c=a/b
+x=1
+y=2
+z=x/y+10
 }
 Print (get.method)
 }
