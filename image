@@ -1,6 +1,6 @@
 Main []
 
-Print{This is the image source}
+Print(This is the image source)
 Class test
 get.method()
 {
