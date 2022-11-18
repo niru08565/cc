@@ -1,0 +1,11 @@
+Main []
+
+Print{This is the image source}
+Class test
+get.method()
+{
+a=1
+b=2
+c=a/b
+}
+Print (get.method)
